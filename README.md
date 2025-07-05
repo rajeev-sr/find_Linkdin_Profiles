@@ -1,7 +1,3 @@
-Sure — here’s a cleanly formatted `README.md` file you can use for your project:
-
----
-
 # 🔍 Streamlit App using Serper API
 
 A simple Streamlit app that integrates with the [Serper API](https://serper.dev/) for search functionalities.
@@ -74,7 +70,3 @@ streamlit run app.py
 ## ✅ Done!
 
 Your Streamlit app should now be running locally 🎉.
-
----
-
-Would you like me to generate a `requirements.txt` template too?
