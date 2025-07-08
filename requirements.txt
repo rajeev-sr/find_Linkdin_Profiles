@@ -1,5 +1,6 @@
 langchain-community
 langchain-openai
+langchain
 openpyxl
 streamlit
 python-dotenv
